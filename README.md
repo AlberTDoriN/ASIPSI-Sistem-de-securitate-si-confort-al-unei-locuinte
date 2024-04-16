@@ -6,7 +6,7 @@ Solutie hardware si software pentru securitatea si confortul locuintelor
 
 - [SRS - Documentul de specificare a cerințelor](srsdocument-Albert-Dorin.docx)
 - [Documentul de specificatii tehnice](specificații_proiectare-Albert-Dorin.docx)
-- [Prezentare proiect].
+- [Prezentare proiect](SSCL_Albert-Dorin.pptx).
 - [Board Jira](https://albertmitrache121212.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
   
 ## Despre
